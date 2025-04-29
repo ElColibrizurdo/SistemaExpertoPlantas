@@ -1,0 +1,171 @@
+[
+    {
+        "nombre": "Phymatotrichopsis omnivora",
+        "nombre-comun": "Pudrición de raíz",
+        "estados": [
+          "Campeche",
+          "Quintana Roo",
+          "Tabasco",
+          "Tamaulipas",
+          "Veracruz",
+          "Yucatan"
+        ],
+        "sintomas": [
+            "Reducción de crecimiento",
+            "Hojas reducidas y cloróticas",
+            "Marchitamiento generalizado",
+            "Pérdida de turgencia",
+            "Amarillamiento del follaje",
+            "Defoliación total",
+            "Cuarteamiento de la corteza en la base del tronco",
+            "Pudrición de la raíz con tonalidades oscuras",
+            "Fácil desprendimiento de la corteza"
+        ]
+      },
+      {
+        "nombre": "Kretzschmaria zonata",
+        "nombre-comun": "Pudrición de raíz",
+        "estados": [
+          "Campeche",
+          "Tabasco",
+          "Veracruz"
+        ],
+        "sintomas": [
+            "Suspensión de crecimiento",
+            "Follaje reducido en tamaño",
+            "Tonos verde claros a amarillos en follaje",
+            "Pudrición en la base del tronco",
+            "Constricción que bloquea el paso de líquidos",
+            "Formación de tejido calloso en forma de faldón alrededor del tronco",
+            "Superficie del tejido oscura con corteza endurecida",
+            "Raíces con color negro",
+            "Corteza fácilmente desprendible",
+            "Textura acuosa y húmeda en raíces",
+            "Consistencia fibrosa en la superficie de la madera"
+        ]
+      },
+      {
+        "nombre": "Armillaria tabescens",
+        "nombre-comun": "Pudrición de raíz",
+        "estados": [
+          "Hidalgo",
+          "Puebla",
+          "Tabasco",
+          "Veracruz"
+        ],
+        "sintomas": [
+            "Reducción de crecimiento",
+            "Hojas reducidas y cloróticas", 
+            "Declinación progresiva en grupo de árboles",
+            "Pérdida de ramas comenzando por el centro de infección",
+            "Pudrición blanca en madera del cuello y raíces principales",
+            "Descomposición de lignina dejando celulosa",
+            "Descomposición fibrosa"
+        ]
+      },
+      {
+        "nombre": "Haematonectria haematococca y su anamorfo Fusarium solani",
+        "nombre-comun": "Cancro",
+        "estados": [
+          "Campeche"
+        ]
+      },
+      {
+        "nombre": "Botryosphaeria rhodina",
+        "nombre-comun": "Cancro",
+        "estados": [
+          "Campeche"
+        ]
+      },
+      {
+        "nombre": "Phomopsis sp.",
+        "nombre-comun": "Cancro",
+        "estados": [
+          "Campeche",
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Rhizoctonia solani y su teleomorfo Thanatephorus cucumeris",
+        "nombre-comun": "Tizón foliar",
+        "estados": [
+          "Campeche"
+        ]
+      },
+      {
+        "nombre": "Olivea tectonae",
+        "nombre-comun": "Roya del follaje",
+        "estados": [
+          "Campeche",
+          "Chiapas",
+          "Jalisco",
+          "Nayarit",
+          "Puebla",
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Ralstonia solanacearum",
+        "nombre-comun": "Marchitamiento",
+        "estados": [
+          "Campeche",
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Flujos bacterianos",
+        "nombre-comun": "Marchitamiento",
+        "estados": [
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Struthanthus sp.",
+        "nombre-comun": "Injerto o muérdago",
+        "estados": [
+          "Campeche",
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Haematonectria haematococca y su anamorfo Fusarium solani",
+        "nombre-comun": "Pudrición de la raíz",
+        "estados": [
+          "Campeche",
+          "Nayarit",
+          "Tabasco"
+        ]
+      },
+      {
+        "nombre": "Botryosphaeria rhodina",
+        "nombre-comun": "Cancro",
+        "estados": [
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Pseudocercospora ranjita",
+        "nombre-comun": "Mancha foliar",
+        "estados": [
+          "Campeche",
+          "Nayarit",
+          "Tabasco",
+          "Veracruz"
+        ]
+      },
+      {
+        "nombre": "Declinación de la melina",
+        "nombre-comun": "Declinación por suelos inundables",
+        "estados": [
+          "Campeche",
+          "Nayarit",
+          "Tabasco"
+        ]
+      }
+]
