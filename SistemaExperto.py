@@ -12,7 +12,7 @@ class Planta(Fact):
     variedad = Field(str, default=None)  # Opcional
     historial_terreno = Field(str, default=None)  # Opcional
     manejo_agronomico = Field(str, default=None)  # Opcional
-    presencia_vectores = Field(str, default=None)  # Opcional
+    presencia_vectores = Field(str, default=None)  # Opcional                 
 
 class DiagnosticoPlagas(KnowledgeEngine):
 

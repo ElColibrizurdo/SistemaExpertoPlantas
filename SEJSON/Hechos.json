@@ -1,0 +1,39 @@
+[
+    {
+      "nombre": "Hongo en tomate",
+      "tipo_cultivo": "tomate",
+      "edad": "cualquiera",
+      "sintomas": ["manchas en hojas", "hojas amarillas", "crecimiento lento"]
+    },
+    {
+      "nombre": "Insectos en pepino",
+      "tipo_cultivo": "pepino",
+      "edad": "cualquiera",
+      "sintomas": ["hojas mordidas", "presencia de insectos", "exudados pegajosos"]
+    },
+    {
+      "nombre": "Moho en plantas jóvenes",
+      "tipo_cultivo": "tomate",
+      "edad": "joven",
+      "sintomas": ["hojas arrugadas", "moho blanco", "crecimiento débil"]
+    },
+    {
+      "nombre": "Podredumbre en raíz",
+      "tipo_cultivo": "tomate",
+      "edad": "adulta",
+      "sintomas": ["raices oscuras", "presencia de humedad excesiva", "hojas amarillas"]
+    },
+    {
+      "nombre": "Pulgones en lechuga",
+      "tipo_cultivo": "lechuga",
+      "edad": "cualquiera",
+      "sintomas": ["hojas enrolladas", "puntos negros", "presencia de insectos"]
+    },
+    {
+      "nombre": "Araña roja en pimiento",
+      "tipo_cultivo": "pimiento",
+      "edad": "cualquiera",
+      "sintomas": ["hojas descoloridas", "telarañas finas", "pérdida de vigor"]
+    }
+  ]
+  
